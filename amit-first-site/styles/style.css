@@ -2,7 +2,7 @@
 html {
   font-size: 10px; /* px means 'pixels': the base font size is now 10 pixels high  */
   font-family: 'Open Sans', sans-serif; /* this should be the rest of the output you got from Google fonts */
-background-color: #00000;
+background-color: #000;
  
 
 }
@@ -42,4 +42,26 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+.btn-next{
+
+text-decoration: none;
+  background-color: black;
+  color: white;
+  float: right;
+  padding: 5px 5px;
+  font-size: 12px;
+  font-weight: bold;
+  border: 2px solid #000000;
+}
+
+a.btn-next i{
+
+visibility: hidden;
+
+}
+
+a.btn-next:hover i{
+  visibility: visible;
+  }
 
