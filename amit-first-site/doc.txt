@@ -1,0 +1,6 @@
+Pacifico font ->> <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
+
+CSS rule:
+font-family: 'Pacifico', cursive;
+
+
